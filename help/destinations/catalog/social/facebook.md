@@ -8,7 +8,7 @@ exl-id: 51e8c8f0-5e79-45b9-afbc-110bae127f76
 
 ## Overview {#overview}
 
-Activate profiles for your [!DNL Facebook] campaigns for audience targeting, personalization, and suppression based on hashed emails.
+Activate profiles for your [!DNL Facebook] campaigns for audience targeting, personalization, and suppression based on hashed emails or phone numbers.
 
 You can use this destination for audience targeting across [!DNL Facebook’s] family of apps that are supported by [!DNL Custom Audiences], including [!DNL Facebook], [!DNL Instagram], [!DNL Audience Network], and [!DNL Messenger]. Selection of the app that you want to run campaign against is indicated at the placement level in [!DNL Facebook Ads Manager].
 
